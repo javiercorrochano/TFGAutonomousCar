@@ -46,9 +46,9 @@ Enlace: https://youtu.be/fiMki1GLJWQ
 
 - [**Vídeo 2.8: Resultados del experimento 0047**][video8]
 
-<a title="" href="https://youtu.be/PMCzAz8x0GY" target="_blank"><img src="https://i.imgur.com/lh4VF2f.png" alt="miniatura" width="400"/></a>
+<a title="" href="https://youtu.be/48i5m_-dFlc" target="_blank"><img src="https://i.imgur.com/lh4VF2f.png" alt="miniatura" width="400"/></a>
 
-Enlace: https://youtu.be/PMCzAz8x0GY
+Enlace: https://youtu.be/48i5m_-dFlc
 
 - [**Vídeo 2.9: Resultados del experimento 0052**][video9]
 
@@ -66,5 +66,5 @@ Enlace: https://youtu.be/t6nnF7YqDxE
 [video5]: https://youtu.be/ZqLx_gwOprw
 [video6]: https://youtu.be/hrntFBIbX-g
 [video7]: https://youtu.be/fiMki1GLJWQ
-[video8]: https://youtu.be/PMCzAz8x0GY
+[video8]: https://youtu.be/48i5m_-dFlc
 [video9]: https://youtu.be/t6nnF7YqDxE
