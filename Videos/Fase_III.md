@@ -25,14 +25,14 @@ Enlace: https://youtu.be/aw6TSHciiv0
 
 Enlace: https://youtu.be/QarCcYTK7sc
 
-- [**Vídeo 3.5: Conducción con volante. Sistema de control y obtención de datos completo.**][video5]
+- [**Vídeo 3.5: Sistema de control, visualización y obtención de datos de entrenamiento**][video5]
 
-<a title="Vídeo 3.5: Conducción con volante. Sistema de control y obtención de datos completo." href="https://sitgesinfoguia.com/wp-content/uploads/2015/07/obras.jpg" target="_blank"><img src="https://sitgesinfoguia.com/wp-content/uploads/2015/07/obras.jpg" alt="drawing" width="400"/></a>
+<a title="Vídeo 3.5: Sistema de control, visualización y obtención de datos de entrenamiento" href="https://youtu.be/f6zvYl4ueuw" target="_blank"><img src="https://i.imgur.com/P7Za59y.jpg" alt="drawing" width="400"/></a>
 
-Enlace: [EN CONSTRUCCIÓN]
+Enlace: https://youtu.be/f6zvYl4ueuw
 
 [video1]: https://youtu.be/4Em6y0v9NZ8
 [video2]: https://youtu.be/e35TZem0xAc
 [video3]: https://youtu.be/aw6TSHciiv0
 [video4]: https://youtu.be/QarCcYTK7sc
-[video5]: https://sitgesinfoguia.com/wp-content/uploads/2015/07/obras.jpg
+[video5]: https://youtu.be/f6zvYl4ueuw
