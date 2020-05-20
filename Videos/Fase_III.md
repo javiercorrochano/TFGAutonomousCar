@@ -3,7 +3,7 @@
 
 - [**Vídeo 3.1: Comparativa de Radios de Giro**][video1]
 
-<a title="Vídeo 3.1: Comparativa de Radios de Giro" href=https://youtu.be/4Em6y0v9NZ8 target="_blank"><img src="https://i.imgur.com/Mks6Mxe.png" alt="drawing" width="400"/></a>
+<a title="Vídeo 3.1: Comparativa de Radios de Giro" href="https://youtu.be/4Em6y0v9NZ8" target="_blank"><img src="https://i.imgur.com/Mks6Mxe.png" alt="drawing" width="400"/></a>
 
 Enlace: https://youtu.be/4Em6y0v9NZ8
 
