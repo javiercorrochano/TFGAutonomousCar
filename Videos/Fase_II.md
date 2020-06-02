@@ -26,15 +26,15 @@ Enlace: https://youtu.be/FwkGVQ8y0N4
 
 Enlace: https://youtu.be/qbXnZ97bVac
 
-- [**Vídeo 2.5: Prueba de iluminación – Prueba en el experimento 0044**][video5]
+- [**Vídeo 2.5: Prueba de iluminación – Modelo del experimento 0044**][video5]
 
-<a title="Vídeo 2.5: Prueba de iluminación – Prueba en el experimento 0044" href="https://youtu.be/ZqLx_gwOprw" target="_blank"><img src="https://i.imgur.com/njk5QMJ.png" alt="miniatura" width="400"/></a>
+<a title="Vídeo 2.5: Prueba de iluminación – Modelo del experimento 0044" href="https://youtu.be/ZqLx_gwOprw" target="_blank"><img src="https://i.imgur.com/njk5QMJ.png" alt="miniatura" width="400"/></a>
 
 Enlace: https://youtu.be/ZqLx_gwOprw
 
-- [**Vídeo 2.6: Resultados del experimento 0045**][video6]
+- [**Vídeo 2.6: Prueba de iluminación – Modelo del experimento 0045**][video6]
 
-<a title="Vídeo 2.6: Resultados del experimento 0045" href="https://youtu.be/hrntFBIbX-g" target="_blank"><img src="https://i.imgur.com/X1RJQMx.png" alt="miniatura" width="400"/></a>
+<a title="Vídeo 2.6: Prueba de iluminación – Modelo del experimento 0045" href="https://youtu.be/hrntFBIbX-g" target="_blank"><img src="https://i.imgur.com/X1RJQMx.png" alt="miniatura" width="400"/></a>
 
 Enlace: https://youtu.be/hrntFBIbX-g
 
