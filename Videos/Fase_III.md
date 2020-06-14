@@ -1,5 +1,5 @@
-## Vídeos de la Fase III
-### Sistema de control y visualización y obtención de datos de entrenamiento
+# Vídeos de la Fase III
+## Sistema de control y obtención de datos de entrenamiento
 
 - [**Vídeo 3.1: Comparativa de radios de giro**][video1]
 

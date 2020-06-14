@@ -1,6 +1,6 @@
-## Vídeos de la Fase II
-### Experimentación con Deep Learning
-#### Extracción de líneas de carretera en un simulador
+# Vídeos de la Fase II
+## Experimentación con Deep Learning
+### Extracción de líneas de carretera en un simulador
 
 - [**Vídeo 2.1: Resultados del experimento 0041**][video1]
 
