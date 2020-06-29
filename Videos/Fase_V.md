@@ -8,9 +8,9 @@ Enlace: https://image.freepik.com/vector-gratis/debajo-cartel-construccion_1284-
 
 ## Tarea de extracción de líneas de la carretera
 
-- [**Vídeo 5.2: Secuencia de test en el escenario - Experimento 0063**][video2]
+- [**Vídeo 5.2: Secuencia de test en el escenario ficticio - Experimento 0063**][video2]
 
-<a title="Vídeo 5.2: Secuencia de test en el escenario - Experimento 0063" href="https://youtu.be/ucHbwA79zPQ" target="_blank"><img src="img/testEscenario0063.png" alt="drawing" width="400"/></a>
+<a title="Vídeo 5.2: Secuencia de test en el escenario ficticio - Experimento 0063" href="https://youtu.be/ucHbwA79zPQ" target="_blank"><img src="img/testEscenario0063.png" alt="drawing" width="400"/></a>
 
 Enlace: https://youtu.be/ucHbwA79zPQ
 
@@ -20,7 +20,7 @@ Enlace: https://youtu.be/ucHbwA79zPQ
 
 Enlace: https://youtu.be/xb_rXOuNfTg
 
-## Tarea de conducción autónoma
+## Tarea de aprendizaje de conducción autónoma
 
 - [**Vídeo 5.4: Conducción autónoma en circuito - Ambos sentidos**][video4]
 

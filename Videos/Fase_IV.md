@@ -7,15 +7,15 @@
 
 Enlace: https://youtu.be/M6bnZoSWsSw
 
-- [**Vídeo 4.2: Secuencia de test en el escenario - Modelo del experimento 0057**][video2]
+- [**Vídeo 4.2: Secuencia de test en el escenario ficticio - Modelo del experimento 0057**][video2]
 
-<a title="Vídeo 4.2: Secuencia de test en el escenario - Modelo del experimento 0057" href="https://youtu.be/ss0BKa5i9mk" target="_blank"><img src="img/Exp0057TestBaniera.png" alt="drawing" width="400"/></a>
+<a title="Vídeo 4.2: Secuencia de test en el escenario ficticio - Modelo del experimento 0057" href="https://youtu.be/ss0BKa5i9mk" target="_blank"><img src="img/Exp0057TestBaniera.png" alt="drawing" width="400"/></a>
 
 Enlace: https://youtu.be/ss0BKa5i9mk
 
-- [**Vídeo 4.3:  Secuencia de test en el entorno sótano - Modelo del experimento 0057**][video3]
+- [**Vídeo 4.3:  Secuencia de test en el sótano (escenario objetivo) - Modelo del experimento 0057**][video3]
 
-<a title="Vídeo 4.3:  Secuencia de test en el entorno sótano - Modelo del experimento 0057" href="https://youtu.be/ueqxcFFuyQo" target="_blank"><img src="img/Exp0057SueloSotano.png" alt="drawing" width="400"/></a>
+<a title="Vídeo 4.3:  Secuencia de test en el sótano (escenario objetivo) - Modelo del experimento 0057" href="https://youtu.be/ueqxcFFuyQo" target="_blank"><img src="img/Exp0057SueloSotano.png" alt="drawing" width="400"/></a>
 
 Enlace: https://youtu.be/ueqxcFFuyQo
 
