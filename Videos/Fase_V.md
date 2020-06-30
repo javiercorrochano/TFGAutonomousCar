@@ -1,10 +1,10 @@
 # Vídeos de la Fase V
 
-- [**Vídeo 5.1: EN CONSTRUCCIÓN**][video1]
+- [**Vídeo 5.1: Fases de entrenamiento**][video1]
 
-<a title="Vídeo 5.1: EN CONSTRUCCIÓN" href="https://image.freepik.com/vector-gratis/debajo-cartel-construccion_1284-5166.jpg" target="_blank"><img src="img/construccion.jpg" alt="drawing" width="200"/></a>
+<a title="Vídeo 5.1: Fases de entrenamiento" href="https://youtu.be/gosJmNk_dmg" target="_blank"><img src="img/FasesDeEntrenamiento.png" alt="drawing" width="400"/></a>
 
-Enlace: https://image.freepik.com/vector-gratis/debajo-cartel-construccion_1284-5166.jpg
+Enlace: https://youtu.be/gosJmNk_dmg
 
 ## Tarea de extracción de líneas de la carretera
 
@@ -34,7 +34,10 @@ Enlace: https://youtu.be/MIJB4rVcimY
 
 Enlace: https://youtu.be/E51p5OUxTXE
 
-[video1]: https://image.freepik.com/vector-gratis/debajo-cartel-construccion_1284-5166.jpg
+
+
+
+[video1]: https://youtu.be/gosJmNk_dmg
 [video2]: https://youtu.be/ucHbwA79zPQ
 [video3]: https://youtu.be/xb_rXOuNfTg
 [video4]: https://youtu.be/MIJB4rVcimY
