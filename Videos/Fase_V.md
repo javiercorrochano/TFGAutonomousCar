@@ -2,9 +2,9 @@
 
 - [**Vídeo 5.1: Fases de entrenamiento**][video1]
 
-<a title="Vídeo 5.1: Fases de entrenamiento" href="https://youtu.be/gosJmNk_dmg" target="_blank"><img src="img/FasesDeEntrenamiento.png" alt="drawing" width="400"/></a>
+<a title="Vídeo 5.1: Fases de entrenamiento" href="https://youtu.be/eKy23wt2E9U" target="_blank"><img src="img/FasesDeEntrenamiento.png" alt="drawing" width="400"/></a>
 
-Enlace: https://youtu.be/gosJmNk_dmg
+Enlace: https://youtu.be/eKy23wt2E9U
 
 ## Tarea de extracción de líneas de la carretera
 
@@ -37,7 +37,7 @@ Enlace: https://youtu.be/E51p5OUxTXE
 
 
 
-[video1]: https://youtu.be/gosJmNk_dmg
+[video1]: https://youtu.be/eKy23wt2E9U
 [video2]: https://youtu.be/ucHbwA79zPQ
 [video3]: https://youtu.be/xb_rXOuNfTg
 [video4]: https://youtu.be/MIJB4rVcimY

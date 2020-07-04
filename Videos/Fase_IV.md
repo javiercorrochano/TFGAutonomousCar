@@ -7,9 +7,9 @@
 
 Enlace: https://youtu.be/M6bnZoSWsSw
 
-- [**Vídeo 4.2: Secuencia de test en el escenario ficticio - Modelo del experimento 0057**][video2]
+- [**Vídeo 4.2: Secuencia de test con imágenes aumentadas - Modelo del experimento 0057**][video2]
 
-<a title="Vídeo 4.2: Secuencia de test en el escenario ficticio - Modelo del experimento 0057" href="https://youtu.be/ss0BKa5i9mk" target="_blank"><img src="img/Exp0057TestBaniera.png" alt="drawing" width="400"/></a>
+<a title="Vídeo 4.2: Secuencia de test con imágenes aumentadas - Modelo del experimento 0057" href="https://youtu.be/ss0BKa5i9mk" target="_blank"><img src="img/Exp0057TestBaniera.png" alt="drawing" width="400"/></a>
 
 Enlace: https://youtu.be/ss0BKa5i9mk
 
