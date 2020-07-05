@@ -2,12 +2,6 @@
 
 En este repositorio se alojan recursos del Trabajo de Fin de Grado desarrollado durante el curso académico 2019 - 2020. Grado en Ingeniería Informática por la UC3M.
 
-**Titulo del proyecto**: Desarrollo de un Coche a Escala reducida para Aprendizaje de Conducción Autónoma mediante Técnicas de _Deep Learning_.
-
-### Resumen
-
-_Pendiente_
-
 ## Contenido del repositorio 📖
 
 En este repositorio se puede encontrar el siguiente contenido:
