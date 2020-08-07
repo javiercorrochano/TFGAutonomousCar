@@ -2,6 +2,8 @@
 
 En este repositorio se alojan recursos del Trabajo de Fin de Grado desarrollado durante el curso académico 2019 - 2020. Grado en Ingeniería Informática por la UC3M.
 
+Enlace a la memoria del proyecto **[PROXIMAMENTE]**: https://e-archivo.uc3m.es/
+
 ## Contenido del repositorio 📖
 
 En este repositorio se puede encontrar el siguiente contenido:
